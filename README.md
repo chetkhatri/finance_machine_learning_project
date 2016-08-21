@@ -1,1 +1,1 @@
-# finance_machine_learning_project
+# Finance Machine Learning Project
