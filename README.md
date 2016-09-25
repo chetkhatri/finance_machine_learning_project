@@ -1,6 +1,6 @@
 # Finance Machine Learning Project
 
--- Using past (6 months) customer and financial product information to predict the future customer's investment.
+-- Using past (6 months) customer and financial product information to predict future customer's investment.
 
 -- Training set > 4GB; test set > 400 MB
 
